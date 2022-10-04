@@ -1,0 +1,41 @@
+body  {
+  background-image: url("img/back.jpg");
+  background-color: #cccccc;
+}
+.center {
+  text-align: center;
+  padding:200px ;
+}
+.center1 {
+    padding:10px ;
+
+}
+.middle-container {
+padding: 100px 0;
+  text-align: center;
+
+}
+hr.style-five
+{
+	
+border: 0;
+height: 55px;
+background-image: url(img/type_10.png);
+background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+   width: 50%;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
